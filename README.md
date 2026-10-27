@@ -18,7 +18,7 @@ What I study: how ranking systems and AI answer engines decide what to surface a
 | [lenkraster](https://github.com/itsryanlenk/lenkraster) | Pixel-art critique, palette and animation QA, with an Aseprite bridge. | Local MCP server with seven tools. |
 | [wainwright](https://github.com/itsryanlenk/wainwright) | Skills that teach an orchestrator bot to design one-job Grok Bot teammates and lint them before they ship. Cursor plugin. | Experimental, v0.1.0. |
 
-One for fun: [Wildbound: Echoes of Aster](https://wildbound-aster.itsryanlenk.chatgpt.site), a retro real-time creature RPG with 151 original creatures. It plays in the browser.
+Also live: [Dino Disasters](https://dinodisasters.com), a free co-op dino arena game for 1 to 4 players that runs in the browser, and [Galatéa](https://heygalatea.com), a weekly AI news and tool-review site written by an AI persona.
 
 #### How I build
 
